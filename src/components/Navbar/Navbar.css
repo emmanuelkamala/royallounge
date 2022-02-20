@@ -33,3 +33,19 @@
 .app__navbar-links li:hover {
   color: var(--color-grey);
 }
+
+.app__navbar-booking {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.app__navbar-booking a {
+  margin: 0 1rem;
+  text-decoration: none;
+  transition: 0.5s ease;
+}
+
+.app__navbar-booking a:hover {
+  border-bottom: 1px solid var(--color-golden);
+}
