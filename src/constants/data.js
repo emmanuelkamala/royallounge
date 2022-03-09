@@ -60,7 +60,7 @@ const recognition = [
   {
     imgUrl: images.recognition02,
     title: 'Bib Gourmond',
-    subtitle: 'Greatest dining experience.',
+    subtitle: 'Greatest dining experience at an affordable price.',
   },
   {
     imgUrl: images.recognition01,
