@@ -56,27 +56,27 @@ const cocktails = [
   },
 ];
 
-const awards = [
+const recognition = [
   {
-    imgUrl: images.award02,
+    imgUrl: images.recognition02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Greatest dining experience.',
   },
   {
-    imgUrl: images.award01,
+    imgUrl: images.recognition01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'We are one of the fastest upcoming restaurant.',
   },
   {
-    imgUrl: images.award05,
+    imgUrl: images.recognition05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'We have the finest customer service available.',
   },
   {
-    imgUrl: images.award03,
+    imgUrl: images.recognition03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Chef that understands his business.',
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { wines, cocktails, recognition };
