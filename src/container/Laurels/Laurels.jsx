@@ -4,7 +4,7 @@ import { images, data } from '../../constants';
 import './Laurels.css';
 
 const AwardCard = ({ rec: { imgUrl, title, subtitle }}) => (
-  <div className="app__laurels_awards_card">
+  <div className="app__laurels_awards-card">
     <img src={imgUrl} alt="recognition" />
     <div className="app__laurels_awards-card_content">
       <p className="p__cormorant" style={{ color: '#DCCA87'}}>{title}</p>
