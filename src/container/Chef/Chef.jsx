@@ -15,16 +15,15 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote" />
           <p className="p__opensans">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis excepturi</p>
+          Cooking is all about people.</p>
          
         </div>
-        <p className="p__opensans">suscipit ipsa distinctio minus modi doloribus consequatur, temporibus impedit quidem quod sed! Voluptatum corporis omnis aperiam quis. Quod, exercitationem delectus.
+        <p className="p__opensans">Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people eat together.
           </p>
+        <p className="p__opensans">A recipe has no soul. As a chef, I must bring soul to the recipe and just make good food from fresh ingredients.</p>
       </div>
       <div className="app__chef-sign">
-        <p className="p__opensans">Kevin Luo</p>
-        <p className="p__opensans">Chef</p>
-        <img src={images.sign} alt="sign" />
+        <p className="p__opensans">Royal Lounge's Chef</p>
       </div>
     </div>
   </div>

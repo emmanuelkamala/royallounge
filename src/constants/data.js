@@ -30,29 +30,29 @@ const salads = [
 
 const starters = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Hummus',
+    price: '£6.49',
+    tags: 'Chickpeas puree, tahini, garlic, lemon juice and oliveoil served with bread.',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: 'Mutabbal',
+    price: '£6.49',
+    tags: 'Grilled aubergine puree, tahini, yoghurt, garlic,lemon juice and olive oil served with bread.',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Labneh',
+    price: '£5.49',
+    tags: 'Homemade, white cream cheese with Garlic and peppermint',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'MUHAMMARA',
+    price: '£5.49',
+    tags: 'Chilli paste, tahini, walnuts, onions, garlic and olive oil',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'TARATOR DEJAJ',
+    price: '£6.49',
+    tags: 'Cooked chicken breast drizziled tarator sauce (yoghurt, tahini, garlic lemon juice and olive oil).',
   },
 ];
 

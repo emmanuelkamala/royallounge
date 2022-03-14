@@ -12,8 +12,8 @@ const FindUs = () => (
       <div className="app__wrapper-content">
         <p className="p__opensans">Phone: 0114 201 9675</p>
         <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0'}}>Opening Hours</p>
-        <p className="p__opensans">Mon - Fri: </p>
-        <p className="p__opensans">Sat - Sun: </p>
+        <p className="p__opensans">Sun - Thur: 3pm - Late</p>
+        <p className="p__opensans">Fri - Sat: 3pm - 2:30am</p>
       </div>
     </div>
     <div className="app__wrapper_img">
