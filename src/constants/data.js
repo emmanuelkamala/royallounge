@@ -1,34 +1,34 @@
 import images from './images';
 
-const wines = [
+const salads = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Tabbouleh',
+    price: '£6.49',
+    tags: 'Cucumbers, tomatoes, herbs, onions,lemon juice, olive oil and toasted bread',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Fatoush',
+    price: '£6.49',
+    tags: 'Oriental mixed salad',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Oriental salad',
+    price: '£6.49',
+    tags: 'Oriental mixed salad',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Farmer‘s Salad',
+    price: '£6.49',
+    tags: 'Mixed salad with onions, olives and sheep cheese',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Khiar Bil Laban',
+    price: '£5.49',
+    tags: 'Yogurt with cucumber & mint ( Tzatziki )',
   },
 ];
 
-const cocktails = [
+const starters = [
   {
     title: 'Aperol Sprtiz',
     price: '$20',
@@ -79,4 +79,4 @@ const recognition = [
   },
 ];
 
-export default { wines, cocktails, recognition };
+export default { salads, starters, recognition };
