@@ -12,8 +12,8 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact us</h1>
-        <p className="p__opensans">156 St. Mary’s road, Sheffield, S2 4ax</p>
-        <p className="p__opensans">0114 201 9675</p>
+        <p className="p__opensans"><strong>Physical Address:</strong>156 St. Mary’s road, Sheffield, S2 4ax</p>
+        <p className="p__opensans"><strong>Phone:</strong>0114 201 9675</p>
       </div>
       <div className="app__footer-links_logo">
         <img src={images.logo} alt="footer logo" />
@@ -27,9 +27,11 @@ const Footer = () => (
 
       <div className="app__footer-links_work">
         <h1 className="app__footer-headtext">Working Hours</h1>
-        <p className="p__opensans">Monday - Friday:</p>
+        <p className="p__opensans">Sunday - Thursday: 3pm to Late</p>
         <p className="p__opensans"></p>
-        <p className="p__opensans">Saturday - Sunday:</p>
+        <p className="p__opensans">Friday - Saturday: 3pm - 2:30am
+
+</p>
         <p className="p__opensans"></p>
       </div>
     </div>
