@@ -20,6 +20,7 @@ import recognition05 from '../assets/recognition05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import salad from '../assets/salad.jpg';
 
 export default {
   bg,
@@ -42,6 +43,7 @@ export default {
   recognition03,
   recognition05,
   sign,
+  salad,
   quote,
   gericht,
 };
