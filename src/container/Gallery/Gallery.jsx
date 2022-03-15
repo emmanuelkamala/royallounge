@@ -28,7 +28,7 @@ const Gallery = () => {
         <p className="p__opensans" style={{ color: '#AAA', marginTop: '2rem' }}>
           For more view of our delicious meals and the ambiance at The Royal Lounge, visit our Instagram page.
         </p>
-        <button type="button" className="custom__button">View Our Page</button>
+        <a href="https://instagram.com/royalloungesheffield"><button type="button" className="custom__button">View Our Page</button></a>
       </div>
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>

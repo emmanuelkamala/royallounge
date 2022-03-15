@@ -58,29 +58,34 @@ const starters = [
 
 const hots = [
   {
-    title: 'Hummus',
-    price: '£6.49',
-    tags: 'Chickpeas puree, tahini, garlic, lemon juice and oliveoil served with bread.',
+    title: 'Moussaka et Batenjan',
+    price: '£7.49',
+    tags: 'aubergine cubes with chickpeas,Tomato paste,onions, fresh mint and garlic Baked.',
   },
   {
-    title: 'Mutabbal',
-    price: '£6.49',
-    tags: 'Grilled aubergine puree, tahini, yoghurt, garlic,lemon juice and olive oil served with bread.',
+    title: 'Warak Enab',
+    price: '£7.49',
+    tags: 'Stuffed grape leaves with rice, tomatoes and Parsley (8 pieces).',
   },
   {
-    title: 'Labneh',
+    title: 'Sambusak',
+    price: '£6.49',
+    tags: 'Dumplings filled with (cheese) or (meat) ( 4 pieces).',
+  },
+  {
+    title: 'Batata harrah',
     price: '£5.49',
-    tags: 'Homemade, white cream cheese with Garlic and peppermint',
+    tags: 'Diced potatoes fried with garlic, coriander and chillies',
   },
   {
-    title: 'MUHAMMARA',
-    price: '£5.49',
-    tags: 'Chilli paste, tahini, walnuts, onions, garlic and olive oil',
-  },
-  {
-    title: 'TARATOR DEJAJ',
+    title: 'Halloumi',
     price: '£6.49',
-    tags: 'Cooked chicken breast drizziled tarator sauce (yoghurt, tahini, garlic lemon juice and olive oil).',
+    tags: 'Grilled Halloumi cheese.',
+  },
+  {
+    title: 'Kebbeh',
+    price: '£6.49',
+    tags: 'deep fried lamb meatballs mixed with cracked wheat and onions,filled with sautéed minced and onions.',
   },
 ];
 
